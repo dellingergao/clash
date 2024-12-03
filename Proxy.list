@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,coo.wiki
 DOMAIN-SUFFIX,coo.ga
 DOMAIN-SUFFIX,hjd2048.com
 DOMAIN-SUFFIX,tagss.pro
+DOMAIN-SUFFIX,ping0.cc
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
